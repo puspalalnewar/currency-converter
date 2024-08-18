@@ -1,1 +1,1 @@
-# currency-converter
+# This is a currency-converter web application using HTML, CSS and JavaScript.
